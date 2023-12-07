@@ -5,6 +5,9 @@
 Cover with test cases the filtering functionality of washing machines on the site:
 - https://rozetka.com.ua/ua/washing_machines/c80124/
 
+## Manual Test Cases
+- [Test Cases_Rozetka_Filter](https://docs.google.com/spreadsheets/d/1IkWvpdlrE5_ie9j0B7fhPs82SH81RMfVFHE9swkDG8Q/edit#gid=523674089)
+
 ## Useful links
 
 - [Fast and reliable end-to-end testing for modern web apps | Playwright Python](https://playwright.dev/python/)
