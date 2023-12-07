@@ -1,3 +1,4 @@
+"""
 from playwright.sync_api import Playwright, sync_playwright, expect
 
 
@@ -24,3 +25,10 @@ def run(playwright: Playwright) -> None:
 def test_catalog_grid_has_elements():
     with sync_playwright() as playwright:
         run(playwright)
+"""
+
+
+def test_check_default_state(rz_wm_page):
+    print(rz_wm_page.check_grid_len())
+    assert rz_wm_page.check_grid_len() >= 1
+    rz_wm_page.close()
