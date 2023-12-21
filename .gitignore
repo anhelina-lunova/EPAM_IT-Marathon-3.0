@@ -1,7 +1,2 @@
-
-.idea/EPAM_IT-Marathon-3.0.iml
-.idea/inspectionProfiles/profiles_settings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/vcs.xml
+.idea/
 *.pyc
